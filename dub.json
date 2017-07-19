@@ -1,0 +1,10 @@
+{
+	"name": "topological-sort",
+	"authors": [
+		"tanitta"
+	],
+	"description": "An implementation of topological sorting in D programming language",
+    "targetType": "library",
+	"copyright": "Copyright © 2017, tanitta",
+    "license": "BSL-1.0"
+}
